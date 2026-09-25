@@ -11,7 +11,7 @@
 
 ### 👾 Your Desktop Code Gremlin. Transforms on `Alt + R`.
 
-**[🌐 Visit Official Website & Download Installer](https://zeropulsedev.com)**
+**[🌐 Visit Official Website & Download Installer](https://refactor-gremlin.vercel.app)**
 
 </div>
 
@@ -52,7 +52,7 @@ Highlight untyped payloads, messy tailwind strings, or nested callbacks, tap **`
 
 To download the standalone one-click installer (`Refactor-Agent-Setup-1.0.0.exe`):
 
-👉 **[Download via ZeroPulse Showcase](https://zeropulsedev.com)**
+👉 **[Download via ZeroPulse Showcase](https://refactor-gremlin.vercel.app)**
 
 ---
 
